@@ -17,3 +17,4 @@ else:
         d_r = int(number / divisor)
         print(f"{number}={d_r}*{divisor}")
         number = file_of_number.readline()
+
